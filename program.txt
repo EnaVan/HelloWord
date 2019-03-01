@@ -2,3 +2,8 @@ main()
 {
   print "Hellow Word"
 }
+
+method()
+{
+ print "aaaaaa"
+}
